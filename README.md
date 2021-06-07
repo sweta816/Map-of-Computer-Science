@@ -7,3 +7,5 @@ After watching the video I got to know that we as Engineers need to remember one
 
 ![image](https://user-images.githubusercontent.com/62616068/121015721-ee3fca80-c7b8-11eb-98e6-5e64e8a2429d.png)
 
+
+Although I have not worked on many of these. Although I have knowledge about Computational science. That I will talk in Detail.
