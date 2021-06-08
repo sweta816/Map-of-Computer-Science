@@ -10,7 +10,7 @@ After watching the video I got to know that we as Engineers need to remember one
 
 Although I have not worked on many of these. Although I have knowledge about Computational science. That I will talk in Detail.
 
-Computational Science : Computational approaches to the social sciences. We have to simulate the society in such a way that it can replicate it and form a Artificial Society. And futher research can lead to a onclusion. 
+Computational Science : Computational approaches to the social sciences. We have to simulate the society in such a way that it can replicate it and form a Artificial Society. And futher research can lead to a conclusion. 
 
 The Below Wikipedia definition will help you understand how Compuational social science is connected with Agent based modelling.
 
